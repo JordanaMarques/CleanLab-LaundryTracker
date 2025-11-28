@@ -1,0 +1,7 @@
+{
+  "name": "CleanLab Laundry Tracker",
+  "description": "A smart expense and order tracker that extracts data from spreadsheet photos using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
